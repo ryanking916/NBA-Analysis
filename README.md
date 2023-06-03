@@ -13,9 +13,9 @@ This project encompasses an in-depth analysis of NBA draft data spanning from 19
 
 ## References
 * https://pypi.org/project/tabulate/
-# https://www.datacamp.com/tutorial/pandas-apply
-# https://www.datacamp.com/tutorial/role-underscore-python
-# https://www.geeksforgeeks.org/pandas-dataframe-iterrows-function-in-python/
+* https://www.datacamp.com/tutorial/pandas-apply
+* https://www.datacamp.com/tutorial/role-underscore-python
+* https://www.geeksforgeeks.org/pandas-dataframe-iterrows-function-in-python/
 
 ## Known Errors
 * N/A
