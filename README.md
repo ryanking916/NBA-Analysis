@@ -1,4 +1,4 @@
-# Atlanta Hawks Assessment Submission
+# NBA Analysis
 This project encompasses an in-depth analysis of NBA draft data spanning from 1989 to 2021. The outcomes will be presented through informative tables, visuals, and thorough descriptions.
 
 ## Identifying Information
