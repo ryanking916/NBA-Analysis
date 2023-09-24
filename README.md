@@ -9,7 +9,6 @@ This project encompasses an in-depth analysis of NBA draft data spanning from 19
 ## Source Files
 * ATL Hawks Assessment Final Report.pdf
 * ATL_Hawks_Assessment_Code.ipynb
-* Resume_Ryan_King.pdf
 
 ## References
 * https://pypi.org/project/tabulate/
