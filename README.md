@@ -4,7 +4,7 @@ This project encompasses an in-depth analysis of NBA draft data spanning from 19
 ## Identifying Information
 * Name: Ryan King
 * Email: ryanhking9@gmail.com
-* Date: June 3, 2023
+* Date: June  2023
 
 ## Source Files
 * ATL Hawks Assessment Final Report.pdf
