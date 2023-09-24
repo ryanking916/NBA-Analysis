@@ -3,7 +3,7 @@ This project encompasses an in-depth analysis of NBA draft data spanning from 19
 
 ## Identifying Information
 * Name: Ryan King
-* Email: ryanhking9@gmail.com
+* Email: Ryanhking9@gmail.com
 * Date: June  2023
 
 ## Source Files
