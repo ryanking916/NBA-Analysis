@@ -7,8 +7,8 @@ This project encompasses an in-depth analysis of NBA draft data spanning from 19
 * Date: June  2023
 
 ## Source Files
-* ATL Hawks Assessment Final Report.pdf
-* ATL_Hawks_Assessment_Code.ipynb
+* NBA_Analysis.pdf
+* NBA_Analysis.ipynb
 
 ## References
 * https://pypi.org/project/tabulate/
